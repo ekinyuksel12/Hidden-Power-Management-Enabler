@@ -1,0 +1,24 @@
+Windows Registry Editor Version 5.00
+
+; Hidden Power Settings Enabler
+; by Toprak Ekin Yüksel
+
+; Maximum Processor Frequency
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Power\PowerSettings\54533251-82be-4824-96c1-47b60b740d00\75b0ae3f-bce0-45a7-8c89-c9611c25e100]
+"Attributes"=dword:00000002
+
+; Processor Performance Decrease Threshold
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Power\PowerSettings\54533251-82be-4824-96c1-47b60b740d00\12a0ab44-fe28-4fa9-b3bd-4b64f44960a6]
+"Attributes"=dword:00000002
+
+; Processor Performance Increase Threshold
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Power\PowerSettings\54533251-82be-4824-96c1-47b60b740d00\06cadf0e-64ed-448a-8927-ce7bf90eb35d]
+"Attributes"=dword:00000002
+
+; Processor Performance Boost Mode
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Power\PowerSettings\54533251-82be-4824-96c1-47b60b740d00\be337238-0d82-4146-a960-4f3749d470c7]
+"Attributes"=dword:00000002
