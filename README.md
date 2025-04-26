@@ -1,10 +1,10 @@
-# Advanced Power Managment Enabler
+# Advanced Power Management Enabler
 
-A complation of registry edits to enable hidden **CPU Power Managment** setting on Windows
+A collection of registry edits to enable hidden **CPU Power Management** settings on Windows.
 
 ---
 
-## Added Settings List
+## Enabled Settings
 
 - Processor Performance Increase Threshold
 - Processor Performance Decrease Threshold
@@ -13,10 +13,17 @@ A complation of registry edits to enable hidden **CPU Power Managment** setting 
 - Minimum Processor State
 - Processor Performance Boost Mode
 
-## Instalation
+## Installation
 
-Use **add.reg** to show hidden CPU power managment settings.
+1. Double-click **add.reg** to enable the hidden CPU power management settings.
+2. Restart your computer or log out and back in for changes to take effect.
 
 ## Removal
 
-Use **remove.reg** to hide hidden CPU power management settings.
+1. Double-click **remove.reg** to hide the CPU power management settings.
+2. Restart your computer or log out and back in for changes to take effect.
+
+---
+
+**Note:**  
+Editing the registry can affect system stability. Always back up your registry before making changes.
